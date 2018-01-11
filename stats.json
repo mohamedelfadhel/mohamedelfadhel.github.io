@@ -1,0 +1,72 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-a895226c7d5a90253ed8.js",
+      "component---src-pages-index-js-a895226c7d5a90253ed8.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---general": [
+      "path---general-a0e39f21c11f6a62c5ab.js",
+      "path---general-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-f9bdcf90703ef44a714d.js",
+      "component---src-layouts-index-js-f9bdcf90703ef44a714d.js.map"
+    ],
+    "path---page-2": [
+      "path---page-2-a0e39f21c11f6a62c5ab.js",
+      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---skills": [
+      "path---skills-a0e39f21c11f6a62c5ab.js",
+      "path---skills-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-68aad81503ae45628ade.js",
+      "commons-68aad81503ae45628ade.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-professional-js": [
+      "component---src-pages-professional-js-8ece84966770777a57af.js",
+      "component---src-pages-professional-js-8ece84966770777a57af.js.map"
+    ],
+    "component---src-pages-general-js": [
+      "component---src-pages-general-js-246bbcc1187d4bed926a.js",
+      "component---src-pages-general-js-246bbcc1187d4bed926a.js.map"
+    ],
+    "component---src-pages-page-2-js": [
+      "component---src-pages-page-2-js-b20a17cc92f9ab86f5ba.js",
+      "component---src-pages-page-2-js-b20a17cc92f9ab86f5ba.js.map"
+    ],
+    "app": [
+      "app-8d6b33597ef530562e63.js",
+      "app-8d6b33597ef530562e63.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-skills-js": [
+      "component---src-pages-skills-js-653a1629d2f1bc9d268e.js",
+      "component---src-pages-skills-js-653a1629d2f1bc9d268e.js.map"
+    ],
+    "path---professional": [
+      "path---professional-a0e39f21c11f6a62c5ab.js",
+      "path---professional-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
