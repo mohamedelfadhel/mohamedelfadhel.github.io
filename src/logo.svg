@@ -1,0 +1,21 @@
+<svg
+        xmlns="http://www.w3.org/2000/svg"
+        baseProfile="full"
+        version="1.1"
+        width="510px"
+        height="270px"
+        style="fill: none; width: 510px; height: 270px;"
+>
+    <path
+            d=""
+            style="stroke-width: 10; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(204, 204, 204); fill: none;"
+    />
+    <path
+            d=""
+            style="stroke-width: 10; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(153, 153, 153); fill: none;"
+    />
+    <path
+            d="M60,60 L60,60 L60,240 M120,120 A60,120 0 0,0 60,240 M180,240 A60,120 0 0,0 120,120 M180,240 A60,120 0 0,1 240,120 M300,240 A60,120 0 0,0 240,120 M300,240 L300,240 L300,60 L300,60 M390,240 A60,105 0 0,1 330,135 M390,30 A60,105 0 0,0 330,135 M450,135 A60,105 0 0,0 390,30 M390,240 A60,105 0 0,0 450,135 M360,135 A30,30 0 0,1 390,105 L390,105 A30,30 0 0,1 420,135 L420,135 A30,30 0 0,1 390,165 L390,165 A30,30 0 0,1 360,135 M60,210 L60,210 L60,30 M120,150 A60,120 0 0,1 60,30 M180,30 A60,120 0 0,1 120,150 M180,30 A60,120 0 0,0 240,150 M300,30 A60,120 0 0,1 240,150 M300,30 L300,30 L300,210 L300,210 M390,30 A60,105 0 0,0 330,135 M390,240 A60,105 0 0,1 330,135 M450,135 A60,105 0 0,1 390,240 M390,30 A60,105 0 0,1 450,135 M360,135 A30,30 0 0,0 390,165 L390,165 A30,30 0 0,0 420,135 L420,135 A30,30 0 0,0 390,105 L390,105 A30,30 0 0,0 360,135 "
+            style="stroke-width: 11; stroke-linecap: round; stroke-linejoin: round; stroke: rgb(0, 0, 0); fill: none;"
+    />
+</svg>
